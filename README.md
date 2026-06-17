@@ -32,7 +32,7 @@ A Retrieval-Augmented Generation (RAG) application designed to help researchers 
 - Evidence-based information retrieval
 
 ## Highlights
-Supports multiple research papers simultaneously
-Provides transparent retrieval by displaying source documents and retrieved chunks
-Reduces hallucinations through retrieval-grounded response generation
-Designed for research and academic knowledge discovery
+- Supports multiple research papers simultaneously
+- Provides transparent retrieval by displaying source documents and retrieved chunks
+- Reduces hallucinations through retrieval-grounded response generation
+- Designed for research and academic knowledge discovery
